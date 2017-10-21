@@ -1,0 +1,32 @@
+.Input-form-group {
+    position: relative;
+}
+
+.Input-form-group label {
+    background-color: #BAA898;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    color: #fff;
+    font-size: 16px;
+    padding: 14.2px 5px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 50px;
+}
+
+.Input-form-control {
+    background-color: rgba(255, 255, 255, .3);
+    border: 0;
+    border-radius: 5px;
+    box-sizing : border-box;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, .3);
+    color: #839788;
+    display: block;
+    font-size: 16px;
+    margin: 20px auto;
+    outline: none;
+    padding: 15px 5px;
+    padding-left: 70px;
+    width: 100%;
+}

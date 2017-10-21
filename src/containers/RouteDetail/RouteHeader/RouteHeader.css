@@ -1,0 +1,42 @@
+.RouteHeader-wrapper {
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 1px solid transparent;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    color: #839788;
+    margin: 15px auto;
+    padding: 30px;
+    text-align: left;
+    transition: box-shadow .2s ease-in-out, background-color .2s ease-in-out, border .2s ease-in-out;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -ms-user-select: none;
+}
+
+.RouteHeader-wrapper:hover {
+    background-color: rgba(255, 255, 255, .3);
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: 2px 10px 2px 1px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}
+
+.RouteHeader-lines {
+    list-style: none;
+    padding: 0;
+}
+
+.mrtLine {
+    color: white;
+    display: inline-block;
+    float: none;
+    font-size: 13px;
+    margin: 10px 5px;
+    padding: 10px;
+}
+
+.showInfo {
+    color: #BAA898;
+    font-size: 12px;
+}

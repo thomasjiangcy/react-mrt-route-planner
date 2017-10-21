@@ -1,0 +1,25 @@
+.RouteBody {
+    padding: 15px;
+}
+
+.RouteBody-content {
+    margin: 15px auto;
+}
+
+.RouteBody-row {
+    display: block;
+    margin: 15px auto;
+}
+
+.RouteBody-step-details {
+    display: inline;
+}
+
+.RouteBody-step-count {
+    background-color: #BAA898;
+    border-radius: 5px;
+    display: inline-block;
+    color: #EEE0CB;
+    margin-right: 15px;
+    padding: 5px 10px;
+}

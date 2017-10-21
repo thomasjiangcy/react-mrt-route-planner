@@ -1,0 +1,20 @@
+.RouteList {
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    color: #839788;
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
+    padding: 15px;
+}
+
+.RouteList .header {
+    font-size: 15px;
+    padding-left: 10px;
+    text-align: left;
+}
+
+.RouteList-routes-list {
+    padding: 0;
+}
